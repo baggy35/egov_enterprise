@@ -5,4 +5,4 @@
 <sqlMapConfig>
 	<sqlMap resource="egovframework/sqlmap/let/cop/bbs/EgovBBSMaster_SQL_Mysql.xml"/>	
 	<sqlMap resource="egovframework/sqlmap/let/cop/bbs/EgovBoard_SQL_Mysql.xml"/>
-</sqlMapConfig>
+<sqlMap resource="egovframework/sqlmap/let/dataTable/dataTable_SQL_Mysql.xml"></sqlMap></sqlMapConfig>
